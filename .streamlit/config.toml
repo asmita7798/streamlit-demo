@@ -2,13 +2,13 @@
 base = "light"
 
 [theme.light]
-primaryColor = "#0F766E"
+primaryColor = "#0072B2"
 backgroundColor = "#FFFFFF"
-secondaryBackgroundColor = "#EAF4F2"
+secondaryBackgroundColor = "#EDF4FA"
 textColor = "#1F2937"
 
 [theme.dark]
-primaryColor = "#2DD4BF"
+primaryColor = "#0072B2"
 backgroundColor = "#0E1117"
-secondaryBackgroundColor = "#1B2530"
+secondaryBackgroundColor = "#182530"
 textColor = "#F3F4F6"
