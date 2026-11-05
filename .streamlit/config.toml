@@ -1,6 +1,3 @@
-[theme]
-base = "light"
-
 [theme.light]
 primaryColor = "#0072B2"
 backgroundColor = "#FFFFFF"
